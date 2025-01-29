@@ -11,3 +11,5 @@ print(item_two)
 print(item_three)
 shopping_list =[item_one, item_two, item_three]
 print(shopping_list)
+
+#interest stuff
